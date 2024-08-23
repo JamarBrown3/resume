@@ -88,7 +88,7 @@
         <!-- About Me section -->
         <section id="about" class="section">
             <h2>About Me</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod nunc in quam ultricies, a aliquam nunc tincidunt.</p>
+            <p>cats are better than dogs.</p>
         </section>
 
         <!-- Education section -->
